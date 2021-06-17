@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tdpreston
+- 📊 I am a data nerd
 - 👀 I’m interested in sports (NBA/NFL/MLB/MLS)
-- 🌱 I’m currently learning R/Python
+- 💻 I program in R/Python
 - 📫 How to reach me: tdpreston@gmail.com
 
 <!---
