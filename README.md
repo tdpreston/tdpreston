@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdpreston
 - 🐻 B.S. in Statistics from UCLA
-- 📊 I am a data nerd
+- 📊 Data nerd
 - 👀 I’m interested in sports (NBA/NFL/MLB/MLS)
 - 💻 I program in R/Python
 - 📫 How to reach me: tdpreston@gmail.com
