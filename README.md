@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @tdpreston
+- 🐻 B.S. in Statistics from UCLA
 - 📊 I am a data nerd
 - 👀 I’m interested in sports (NBA/NFL/MLB/MLS)
 - 💻 I program in R/Python
