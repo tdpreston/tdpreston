@@ -7,7 +7,7 @@
 
 Iris classification sample: https://github.com/tdpreston/iris_code_samples
 
-Los Angeles County Home Sales 2021 (via Redfin): https://github.com/tdpreston/redfin-data
+Los Angeles County Home Sales May 2021 (via Redfin): https://github.com/tdpreston/redfin-data
 
 
 
