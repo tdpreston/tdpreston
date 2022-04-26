@@ -9,7 +9,7 @@ Iris classification sample: https://github.com/tdpreston/iris_code_samples
 
 Los Angeles County Home Sales May 2021 (via Redfin): https://github.com/tdpreston/redfin-data
 
-NBA 21-22 Cost-Per-Point: https://i.imgur.com/QF7MmSl.png
+NBA 21-22 Cost-Per-Point: https://i.imgur.com/wxBG6y1.png
 
 
 
