@@ -13,6 +13,10 @@ NBA 21-22 Cost-Per-Point(Barplot): https://i.imgur.com/wxBG6y1.png
 
 NBA 21-22 Total Points vs Cost-per-point: https://i.imgur.com/H2UuZgw.png
 
+Date Fruits Classification uscing SVM: https://github.com/tdpreston/date_fruits_svm
+
+Vehicle Theft Los Angeles, CA (2018-2021): https://i.imgur.com/RxOJ6Ub.png
+
 
 
 <!---
