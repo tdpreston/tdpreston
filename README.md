@@ -5,6 +5,8 @@
 - 💻 I program in R/Python
 - 📫 How to reach me: tdpreston@gmail.com
 
+MLB Injury Project UCLA: https://i.imgur.com/UomyYFg.png (R code: https://github.com/tdpreston/baseball_141)
+
 Iris classification sample: https://github.com/tdpreston/iris_code_samples
 
 Los Angeles County Home Sales May 2021 (via Redfin): https://github.com/tdpreston/redfin-data
@@ -16,8 +18,6 @@ NBA 21-22 Total Points vs Cost-per-point: https://i.imgur.com/H2UuZgw.png
 Date Fruits Classification uscing SVM: https://github.com/tdpreston/date_fruits_svm
 
 Vehicle Theft Los Angeles, CA (2018-2021): https://i.imgur.com/RxOJ6Ub.png
-
-MLB Injury Project UCLA: https://i.imgur.com/UomyYFg.png (R code: https://github.com/tdpreston/baseball_141)
 
 
 
