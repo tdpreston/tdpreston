@@ -17,7 +17,7 @@ Date Fruits Classification uscing SVM: https://github.com/tdpreston/date_fruits_
 
 Vehicle Theft Los Angeles, CA (2018-2021): https://i.imgur.com/RxOJ6Ub.png
 
-MLB Injury Project UCLA: https://i.imgur.com/UomyYFg.png
+MLB Injury Project UCLA: https://i.imgur.com/UomyYFg.png (R code: https://github.com/tdpreston/baseball_141)
 
 
 
