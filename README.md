@@ -5,6 +5,8 @@
 - 💻 I program in R/Python
 - 📫 How to reach me: tdpreston@gmail.com
 
+Space Titanic Analysis & Modeling (Python): https://github.com/tdpreston/Space-Titanic
+
 MLB Injury Project UCLA: https://i.imgur.com/UomyYFg.png (R code: https://github.com/tdpreston/baseball_141)
 
 Iris classification sample: https://github.com/tdpreston/iris_code_samples
